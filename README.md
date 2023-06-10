@@ -13,8 +13,6 @@ To get this workflow up running on your available computational resources, make 
 3. Numpy, os, sys, re, yaml, subprocess.
 4. json, csv, shutil, tarfile. 
 ```
-2.
-
 ## 3. Crystal Information Inputs
 - Define your crystal (lattice parameter, space group etc) using the CLEASE framework
 
